@@ -1,18 +1,54 @@
-# Keeper App (React)
+# 🗒️ Keeper App (React)
 
-A simple Google Keep–style notes app built using React.
+A simple Google Keep–style notes app built using **React**.  
+Create, view, and manage notes with a clean and minimal UI.
 
-## Tech Stack
-- React
-- JavaScript
-- Vite
+---
 
-## How to Run Locally
+## 🚀 Features (coming soon)
+- ➕ Add notes with title & content  
+- 🗑️ Delete notes easily  
+- ⚡ Fast and responsive UI  
+- 🧩 Component-based React structure  
+
+---
+
+## 🛠️ Tech Stack
+- ⚛️ React  
+- 🟨 JavaScript (ES6)  
+- 🎨 CSS  
+- ⚡ Vite  
+
+---
+
+## 📂 Project Structure ( Like this..)
+
+src/
+├── components/
+│ ├── Header.jsx
+│ ├── Footer.jsx
+│ ├── Note.jsx
+│ └── App.jsx
+├── index.jsx
+
+
+
+---
+
+## ▶️ How to Run Locally
+
 ```bash
 npm install
 npm run dev
 
-## MSDIAN
+Then open your browser at:
+👉 http://localhost:5173
 
-> "TILL THE FULL STOP DOESN'T COME, SENTENCE IS NOT COMPLETE."
+✨ ## MSDIAN
+
+> "TILL THE FULL STOP DOESN'T COME,
+SENTENCE IS NOT COMPLETE."
+
+
+
 
